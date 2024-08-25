@@ -1,28 +1,10 @@
-<div class = "repo" align = "center">
- 
-<a href = "#">
-<img src = "https://telegra.ph/file/adc46970456c26cad0c15.jpg"  width="300" height="300">
-</img>
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT" alt="">
-</p>
-    <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
 
-### Please Read !
-Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
-We are not responsible for any problems caused by your use of this!
-And Subscribe GAMING RASH and give one star for queen anju.
-</br>
-#### Give One star For Queen Anju and [Follow Me](https://github.com/Mrrashmika) 
 
-## How create queen Anju.
+# QUEEN_NIKKA
 
-**. Deploy steps.*
- - 1._Fork queen Anju repository._
-    <br>
-    <a href="https://github.com/Mrrashmika/Queen_Anju-MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
- - 2._Link with yoour whatsappp using pair code._
+
+
+   _Link with yoour whatsappp using pair code._
    **Pair with WhatsApp* 
    <p align="center">
        <a href="https://replit.com/@win-771/QUEENANJU-PAIR?v=1">
