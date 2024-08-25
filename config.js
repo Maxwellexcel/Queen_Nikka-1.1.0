@@ -24,8 +24,8 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID,
-ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/fafe340b81d446d039f15.jpg",
+SESSION_ID: process.env.SESSION_ID || "SIcEmCRD#QCF5y9001aFTRvMc5y-dJEOPpoSVR08AOTRBVDA7qGs",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/448c977f47b4c59c09bb2.jpg",
 ALIVE_MSG: process.env.ALIVE_MSG || "How are you doing?, `*QUEEN NIKKA` IS ALIVE And Running*\n\nCREATOR: `HAKI` \n\nSUBSCRIBE TO MY YOUTUBE CHANNEL FOR MORE UPDATES: https://youtu.be/uTa8keC87mA?si=euhGbTFaojwZk7fL \n\n> *© QUEEN NIKKA WHATSAPP BOT \n\n> ɢɪᴛʜᴜʙ :* github.com/hakisolos/QUEEN_NIKKA",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
